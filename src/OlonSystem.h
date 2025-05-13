@@ -4,7 +4,7 @@
   #include <ArduinoJson.h>
 #endif
 
-#define OLON_SYSTEM_VERSION "1.0.0"
+#define OLON_SYSTEM_VERSION "1.0.4"
 
 namespace Olon {
 
